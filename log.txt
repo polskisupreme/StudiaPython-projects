@@ -1,9 +1,0 @@
-2024-10-16 21:40:17,157 - INFO - Reading data from data_student_12345.csv
-2024-10-16 21:40:17,160 - INFO - Data read successfully. Shape: (1000, 7)
-2024-10-16 21:40:17,161 - INFO - Rozpoczêto czyszczenie danych.
-2024-10-16 21:40:17,162 - INFO - Usuniêto 20 wierszy z brakuj¹cymi danymi.
-2024-10-16 21:40:17,164 - INFO - Uzupe³niono 17 brakuj¹cych wartoœci.
-2024-10-16 21:40:17,167 - INFO - Przeprowadzono standaryzacjê danych.
-2024-10-16 21:40:17,169 - INFO - Standardized numerical columns.
-2024-10-16 21:40:17,170 - INFO - Report generated at report.txt
-2024-10-16 21:40:17,170 - INFO - Data processing complete.
