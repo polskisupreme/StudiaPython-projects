@@ -1,2 +1,0 @@
-Percentage of data removed: 0.00%
-Percentage of data modified (filled): 0.48%
